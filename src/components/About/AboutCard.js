@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { GiRoundStar, GiWeight, GiTennisBall } from "react-icons/gi";
 
 function AboutCard() {
   return (
@@ -8,30 +8,28 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            Hey guys! I'm <span className="purple">Sahil Sudhir</span>
+            , and I'm from a thriving (not so little anymore) community of <span className="purple"> Alpharetta, Georgia.</span>
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I am currently a second-year Master's student pursuing a MSCS degree at Georgia Tech in Computing Systems. I also did get my Bachelor's degree
+            in Computer Science at Georgia Tech with my threads in <a href="https://www.cc.gatech.edu/academics/threads/intelligence" style={{ color: "#b2e7d7" }}>Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks" style={{ color: "#b2e7d7" }}>Information Internetworks</a>.
+            <br />
+            <br />
+            Apart from programming, I love to keep myself busy with other activites!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <GiRoundStar /> Casual Brawl Stars
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <GiWeight /> Calisthenics / Weight-Lifting
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <GiTennisBall /> Intramural Racquetball
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
