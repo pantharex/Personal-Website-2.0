@@ -19,7 +19,7 @@ function Home2() {
               A QUICK <span className="purple"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-              I started coding in 12th grade, and I've been hooked since. From hackathons to work-related projects, I'm always moving towards to my next big endeavor!
+              I started coding in 12th grade, and I've been hooked since. From hackathons to work-related projects, I'm always moving towards my next big endeavor!
               <br />
               <br />I'm fluent in many languages, but my favorites are
               <i>
