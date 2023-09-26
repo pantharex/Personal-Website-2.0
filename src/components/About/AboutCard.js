@@ -12,7 +12,7 @@ function AboutCard() {
             , and I'm from a thriving (not so little anymore) community of <span className="purple"> Alpharetta, Georgia.</span>
             <br />
             <br />
-            I am currently a second-year Master's student pursuing a MSCS degree at Georgia Tech in Computing Systems. I also did get my Bachelor's degree
+            I am currently a Master's student pursuing a MSCS degree at Georgia Tech in Computing Systems. I also did get my Bachelor's degree
             in Computer Science at Georgia Tech with my threads in <a href="https://www.cc.gatech.edu/academics/threads/intelligence" style={{ color: "#b2e7d7" }}>Intelligence</a> and <a href="https://www.cc.gatech.edu/academics/threads/information-internetworks" style={{ color: "#b2e7d7" }}>Information Internetworks</a>.
             <br />
             <br />
